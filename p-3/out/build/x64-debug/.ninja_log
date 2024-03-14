@@ -1,0 +1,27 @@
+# ninja log v5
+9	2627	6890692532112880	CMakeFiles/executable.dir/Book.cpp.obj	55e6fe391f78fc63
+0	2922	6890692535246202	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+4	4250	6890692548575659	CMakeFiles/executable.dir/BookDatabase.cpp.obj	3e147a2bfdcb587d
+4251	4760	6890692553548105	executable.exe	410906e33ef78620
+1	4849	6890693865416145	CMakeFiles/testing.dir/Book.cpp.obj	e63b7f9cf501e341
+35	4861	6890693865635548	CMakeFiles/testing.dir/RegressionTests/BookTests.cpp.obj	167deb9888a2e847
+11	7237	6890693889772117	CMakeFiles/testing.dir/RegressionTests/BookDatabaseTests.cpp.obj	ecb904a8add6865a
+7	7268	6890693890238385	CMakeFiles/testing.dir/BookDatabase.cpp.obj	7aed17f849ad5e21
+60	9045	6890693908132846	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	76fb8c4118e5093e
+116	10421	6890693921834269	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	74a8df5a634886c5
+10421	10542	6890693923046148	lib/gtestd.lib	c977e81899751125
+10543	10590	6890693923609596	lib/gtest_maind.lib	d2114b9c121b2913
+10590	11594	6890693933239334	testing.exe	a25d1f31c823d364
+1	2428	6890699560079706	CMakeFiles/executable.dir/Book.cpp.obj	55e6fe391f78fc63
+5	2735	6890699563163320	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+2735	3087	6890699566012228	executable.exe	410906e33ef78620
+6	2605	6890700777493114	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+0	3642	6890700787843412	CMakeFiles/executable.dir/BookDatabase.cpp.obj	3e147a2bfdcb587d
+1	2422	6890701029432406	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+6	3582	6890701041038846	CMakeFiles/executable.dir/BookDatabase.cpp.obj	3e147a2bfdcb587d
+1	2772	6890704202442301	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+6	3968	6890704214412086	CMakeFiles/executable.dir/BookDatabase.cpp.obj	3e147a2bfdcb587d
+3968	4623	6890704217753465	executable.exe	410906e33ef78620
+6	2464	6890712887669666	CMakeFiles/executable.dir/main.cpp.obj	f21018aee1e8bd4d
+0	3828	6890712901331011	CMakeFiles/executable.dir/BookDatabase.cpp.obj	3e147a2bfdcb587d
+3828	4143	6890712903894134	executable.exe	410906e33ef78620

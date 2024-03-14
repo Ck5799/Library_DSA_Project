@@ -1,0 +1,1 @@
+/usr/bin/g++-10     CMakeFiles/testing.dir/Book.cpp.o CMakeFiles/testing.dir/BookDatabase.cpp.o CMakeFiles/testing.dir/RegressionTests/BookTests.cpp.o CMakeFiles/testing.dir/RegressionTests/BookDatabaseTests.cpp.o  -o testing  lib/libgtest_main.a lib/libgtest.a -lpthread 
